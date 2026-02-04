@@ -40,3 +40,10 @@ bash scripts/PEMS04/AutoHFormer.sh
 
 4. Results.
 All experiment logs are saved under `logs/LongForecasting/`
+
+`@article{zhang2025autohformer,
+  title={AutoHFormer: Efficient Hierarchical Autoregressive Transformer for Time Series Prediction},
+  author={Zhang, Qianru and Wen, Honggang and Li, Ming and Huang, Dong and Yiu, Siu-Ming and Jensen, Christian S and Li{\`o}, Pietro},
+  journal={arXiv preprint arXiv:2506.16001},
+  year={2025}
+}`
